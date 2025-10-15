@@ -23,6 +23,19 @@ int main() {
     {
         printf("Esquerda\n");
     }
+
+    int j = 1;
+    printf("\n\n***CAVALO***\n");
+    for (i = 1; i <= 1; i++)
+    {
+        while (j <= 2)
+        {
+            printf("Baixo\n");
+            ++j;
+        }
+    
+        printf("Esquerda\n");    
+    }
     
     return 0;
 }
